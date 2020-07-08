@@ -109,22 +109,13 @@ h6  {
 
 #title1{
   font-size: 50px;
-  display: inline-block;
+  display: block;
   color: #FFFFFF;
   transform: rotate(270deg);
-  height: 400px;
-  width: 400px;
-  padding-top: 25px;
-}
-
-#title2{
-  font-size: 50px;
-  display: inline-block;
-  color: #FFFFFF;
-  transform: rotate(90deg);
-  height: 400px;
-  width: 500px;
-  padding-top: 50px;
+  height: auto;
+  width: auto;
+  margin: auto;
+  padding:auto;
 }
 
 #menu{
@@ -385,6 +376,11 @@ figure{
 #pokemon{
     color: #000000;
     background-color: #ffe7a7;
+}
+
+#weightlifting{
+    color: #000000;
+    background-color: #ececec;
 }
 
 .gallery img{
