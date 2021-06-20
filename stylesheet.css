@@ -25,7 +25,14 @@ h2  {
     font-size: 40px;
 }
 
-h3,
+h3 {
+    font-family: base-mono-wide, monospace;
+    font-weight: 700;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
 h4,
 h5,
 h6  {
@@ -268,6 +275,36 @@ figure{
     background-color: #f8e2d9;
 }
 
+#y4-0{
+    color: #ffffff;
+    background-color: #4F1F16;
+}
+
+#y4-1{
+    color: #ffffff;
+    background-color: #9c4e37;
+}
+
+#y4-2{
+    color: #000000;
+    background-color: #f8f3f1;
+}
+
+#y4-3{
+    color: #000000;
+    background-color: #d5aa88;
+}
+
+#y4-4{
+    color: #000000;
+    background-color: #babebe;
+}
+
+#y4-5{
+    color: #000000;
+    background-color: #6d8799;
+}
+
 .dark-pink{
     background-color: #DC9A86;
     color: #FFFFFF;
@@ -299,6 +336,38 @@ figure{
 
 .dark-blue{
     background-color: #636c79;
+}
+
+#y4-3-1{
+    padding-top: 10px;
+}
+
+#y4-4-1{
+    padding-top: 26px;
+}
+
+#y4-4-3{
+    padding-top: 24px;
+}
+
+
+#y4-4-2{
+    padding-top: 26px;
+}
+
+#y4-1-1{
+    color: #000000;
+    background-color: #eeded6;
+}
+
+#y4-2-2{
+    color: #000000;
+    background-color: #e8cdbe;
+}
+
+#y4-4-0{
+    color: #000000;
+    background-color: #fcece6;
 }
 
 #y3-2{
@@ -369,6 +438,11 @@ figure{
 
 #silverbacks2{
     color: #000000;
+    background-color: #a8d6ee;
+}
+
+#silverbacks3{
+    color: #e4f2fa;
     background-color: #a8d6ee;
 }
 
