@@ -230,10 +230,9 @@ video{
     padding: 10px;
 }
 
-.YT-embed iframe {
+iframe {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
 
