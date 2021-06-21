@@ -89,6 +89,11 @@ h6  {
   text-transform: uppercase;
 }
 
+#center{
+width:100%;
+float:left;
+text-align:center;
+}
 
 #nav1{
   font-size: 20px;
